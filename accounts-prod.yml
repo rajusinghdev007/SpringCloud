@@ -4,8 +4,8 @@ build:
 accounts:
   message: "Welcome to accounts related prod APIs "
   contactDetails:
-    name: "Rajeev - Developer"
-    email: "rajusigh48658@gmail.com"
+    name: "Raju - Super Admin"
+    email: "rajusigh486581@gmail.com"
   onCallSupport:
     - +91-9560309951
     - +91-7800183401
